@@ -1,0 +1,207 @@
+:host { 
+  display: contents; 
+}
+.mac-book-air1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air1-mac-book-air1 {
+  width: 100%;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book-air1-bluewhiteleafybackgroundvector538761360801 {
+  top: 0px;
+  left: 0px;
+  width: 555px;
+  height: 832px;
+  position: absolute;
+  border-radius: 0 20px 20px 0;
+}
+.mac-book-air1-text {
+  top: 61px;
+  left: 615px;
+  color: rgba(122, 153, 156, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text01 {
+  color: rgba(122, 153, 156, 1);
+}
+.mac-book-air1-text02 {
+  color: rgba(95, 124, 141, 1);
+}
+.mac-book-air1-text03 {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 700;
+}
+.mac-book-air1-frame1 {
+  gap: 153px;
+  top: 193px;
+  left: 797px;
+  width: 266px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.mac-book-air1-text05 {
+  left: -8px;
+  color: rgba(95, 124, 141, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text07 {
+  left: 133px;
+  color: rgba(95, 124, 141, 0.38999998569488525);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-line1 {
+  top: 52px;
+  left: -23px;
+  width: 125px;
+  height: 1px;
+  position: absolute;
+}
+.mac-book-air1-line2 {
+  top: 417px;
+  left: 691px;
+  width: 432px;
+  height: 1px;
+  position: absolute;
+}
+.mac-book-air1-line3 {
+  top: 520px;
+  left: 691px;
+  width: 432px;
+  height: 1px;
+  position: absolute;
+}
+.mac-book-air1-text09 {
+  top: 371px;
+  left: 693px;
+  color: rgba(95, 124, 141, 0.550000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-text11 {
+  top: 478px;
+  left: 695px;
+  color: rgba(95, 124, 141, 0.550000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-basileyeclosedsolid {
+  top: 479px;
+  left: 1084px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.mac-book-air1-flatcoloriconsgoogle {
+  top: 743px;
+  left: 847px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.mac-book-air1-vector {
+  top: 745px;
+  left: 935px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.mac-book-air1-text13 {
+  top: 671px;
+  left: 893px;
+  color: rgba(95, 124, 141, 0.550000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air1-rectangle1 {
+  top: 581px;
+  left: 691px;
+  width: 432px;
+  height: 53px;
+  position: absolute;
+}
+.mac-book-air1-text15 {
+  top: 590px;
+  left: 877px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
